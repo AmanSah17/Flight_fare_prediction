@@ -1,2 +1,2 @@
 # Flight_fare_prediction
-this repository ontains the necessary files and code for forecasting the fligth fare. A number of algorithms are used to best fit the model. Everything is discussed in the high_level document , you can download and go through it for your reference.
+this repository contains the necessary files and code for forecasting the flight fare. A number of algorithms are used to fit the model best. Everything is discussed in the high-level document, you can download and review it.
